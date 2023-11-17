@@ -87,7 +87,7 @@
     "intro": {
       "id": "intro",
       "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 3 minutes.",
+      "description": "Vamos descobrir o Docusaurus em menos de 3 minutos.",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {
