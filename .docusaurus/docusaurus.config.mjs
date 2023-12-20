@@ -5,7 +5,7 @@
  */
 export default {
   "title": "ConcessionáriaVirtual",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "Descubra o seu carro de sonho, só apenas de distância de um clique !! ",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
