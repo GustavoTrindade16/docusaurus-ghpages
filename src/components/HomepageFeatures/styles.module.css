@@ -9,3 +9,8 @@
   height: 200px;
   width: 200px;
 }
+
+.features {
+  /* outras propriedades existentes */
+  background-color: #ffcc00; /* Substitua #ffcc00 pela cor desejada */
+}
