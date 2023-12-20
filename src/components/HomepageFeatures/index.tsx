@@ -35,11 +35,12 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Crie o carro dos seus sonhos do zero!',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/sonhe-com-o-conceito-de-carro-da-pagina-de-destino-com-o-pai-olhando-para-o-veiculo-de-desenho-infan.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Crie o carro dos seus sonhos do zero! Personalize cada detalhe e transforme sua visão em realidade. 
+        Monte seu carro ao seu gosto, porque a perfeição está nos detalhes.
+         Liberte sua criatividade e dirija algo verdadeiramente único.
       </>
     ),
   },
