@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Gustavo Trindade',
+  title: 'Implementação do York',
   tagline: 'Dinossauros são legais',
   favicon: 'img/favicon.ico',
 
