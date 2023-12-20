@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Crie o carro dos seus sonhos do zero!',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
