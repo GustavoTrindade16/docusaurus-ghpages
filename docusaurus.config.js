@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Concessionária Virtual',
-  tagline: 'Dinossauros são legais',
+  tagline: 'Descubra o seu carro de sonho, só apenas de distância de um clique !!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
