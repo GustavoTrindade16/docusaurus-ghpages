@@ -10,12 +10,16 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Compramos carros usados',
     Svg: require('@site/static/img/jovem-homem-comprando-carro-liso_82574-5563.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Transforme seu antigo companheiro de 
+        estrada em dinheiro na hora! 
+        Compramos seu carro usado com 
+        as melhores ofertas do mercado. 
+       Faça negócio conosco e 
+        dê um adeus lucrativo ao seu veículo atual!
       </>
     ),
   },
