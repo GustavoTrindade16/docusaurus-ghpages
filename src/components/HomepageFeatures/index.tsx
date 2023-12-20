@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Descubra a potência sem pesar no bolso!',
-    Svg: require('@site/static/img/desenho-de-anime-de-carro-rapido_345327-359.jpg').default,
+    Svg: require('@site/static/img/desenho-de-anime-de-carro-rapido_345327-359_1.svg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
