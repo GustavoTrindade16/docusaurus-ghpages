@@ -24,8 +24,8 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Descubra a potência sem pesar no bolso!',
+    Svg: require('@site/static/img/desenho-de-anime-de-carro-rapido_345327-359.jpg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
