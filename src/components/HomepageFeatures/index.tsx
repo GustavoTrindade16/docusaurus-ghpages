@@ -28,8 +28,10 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/desenho-de-anime-de-carro-rapido_345327-359_1.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Nossos melhores carros a preços irresistíveis estão prontos para conquistar as estradas. 
+        Entre no volante do seu próximo veículo sem comprometer o orçamento. Performance incrível, estilo imbatível, 
+        e tudo a um preço que vai te surpreender. Seu novo carro dos 
+        sonhos está esperando por você, e o melhor? A um preço que cabe no seu bolso!
       </>
     ),
   },
