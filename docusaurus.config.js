@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Implementação do York',
+  title: 'Concessionária Virtual',
   tagline: 'Dinossauros são legais',
   favicon: 'img/favicon.ico',
 
