@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "ConcessionáriaVirtual",
+  "tagline": "Descubra o seu carro de sonho, só apenas de distância de um clique !! ",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
