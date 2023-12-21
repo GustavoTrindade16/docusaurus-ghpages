@@ -42,7 +42,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Stand Virtual",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -52,7 +52,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Stand"
         },
         {
           "to": "/blog",
