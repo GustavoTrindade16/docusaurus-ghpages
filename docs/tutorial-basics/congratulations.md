@@ -1,31 +1,147 @@
 ---
-sidebar_position: 6
+sidebar_position: 2
 ---
 
 # Volvo
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+# Volvo, For Life
+--
 
-Docusaurus has **much more to offer**!
+# EX30. Excelente desempenho elétrico num formato pequeno.
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+--
+## Autonomia elétrica (Até).
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+475 km.
 
-Here's a demo on how to add a table:
+--
+# Estimativa de tempo de carregamento rápido CC
 
-|Header      |Header         |Header   |
-|------------|---------------|---------|
-|Content     |Content        |Content  |
-|Content     |`Code content` |*Italic*  |
-|Content     |Content        |Content  |
+26 m
 
-## What's next?
+--
+# Consumo de energia (por 100km)
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+17 kWh
+
+--
+# Aceleração (0-100 km/h)
+
+3.6 s
+
+![Descrição da Imagem](https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/ex30-electric/reveal/ex30-electric-overview-gallery-item8-16x9.jpg?iar=0&w=1920)
+
+--
+
+# Barra de som (Soundbar)
+
+ A elegante barra de som é a peça central de um sistema de áudio de elevado desempenho.
+
+--
+
+# Park Pilot Assist
+
+ A elegante barra de som é a peça central de um sistema de áudio de elevado desempenho.
+
+--
+
+# Temas de ambiente
+
+ Cinco temas de iluminação e som evocam o ambiente da Escandinávia.
+
+--
+
+# Soluções de arrumação inteligentes
+
+ As práticas soluções de arrumação e a bagageira versátil melhoram a comodidade e o conforto.
+
+--
+# Interiores
+
+## Reciclado. Renovado. Refinado.
+
+ Criámos quatro interiores inspirados na natureza para o EX30. Combinam na perfeição estofos e decorações em cores a condizer, tecidos feitos a partir de materiais renováveis e reciclados.
+
+![Descrição da Imagem](https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/ex30-electric/reveal/ex30-electric-interior-room-item1-image1-4x3.jpg?iar=0&w=1080)
+
+--
+# Breeze
+ A frescura que desejamos nos dias de sol. Procure padrões exclusivos em cores suaves.
+
+--
+# Pixel Knit e Nordico
+ Estofos
+
+--
+# Particle
+
+Painéis de decoração
+
+--
+# Dias de verão
+
+Inspiração do design
+
+--
+# Azul
+
+Decoração da entrada de ar
+
+-- 
+
+## Especificações
+
+# Especificações completas e detalhes do modelo.
+
+# Bancos
+
+5 
+
+# Altura 
+
+1 555 mm
+
+# Capacidade de carga (máxima)
+
+318 l
+
+# Peso (massa efetiva)
+
+1960 kg
+
+# Largura
+
+1 836 mm
+
+# Comprimento
+
+4 233 mm
+
+# Peso máximo do atrelado
+
+1 600 kg
+
+# Capacidade da bateria
+
+69.0 kWh
+
+# Opções do sistema de som automóvel
+
+### Premium Sound da Harman Kardon
+
+- 9 colunas
+- 9 canais
+- Saída de 1040 W
+- Inclui 1 subwoofer
+
+--
+
+# High Performance
+- 5 colunas
+- 4 canais
+- Saída de 100 W
+ 
+ 
+
+
+
