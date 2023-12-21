@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Let's discover **Vamos descobrir o Docusaurus em menos de 3 minutos.**.
 
-## Getting Started
+## bom dia
 
 Get started by **creating a new site**.
 
