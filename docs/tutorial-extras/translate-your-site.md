@@ -2,87 +2,22 @@
 sidebar_position: 2
 ---
 
-# Translate your site
+# Test Drive
 
-Let's translate `docs/intro.md` to French.
+# **Test Drive: Sinta a Emoção Sob Rodas!**
 
-## Configure i18n
+Dê vida aos seus sonhos e transforme a curiosidade em uma experiência inesquecível. Agende agora o seu Test Drive e embarque no universo emocionante de um veículo que vai além das expectativas.
 
-Modify `docusaurus.config.js` to add support for the `fr` locale:
+**O que você pode esperar:**
+- **Potência Inigualável:** Sinta o rugir do motor e experimente o poder na ponta dos dedos.
+- **Luxo nos Detalhes:** Descubra a sofisticação em cada acabamento, cada detalhe pensado para surpreender.
+- **Conforto Incomparável:** Mergulhe no bem-estar de assentos projetados para proporcionar uma experiência única.
 
-```js title="docusaurus.config.js"
-module.exports = {
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'fr'],
-  },
-};
-```
+**Por que escolher o Test Drive?**
+- A estrada aguarda por você.
+- A emoção de dirigir está a um passo de distância.
+- A decisão é sua: venha sentir a diferença, venha dirigir o futuro hoje!
 
-## Translate a doc
+![Test Drive](link_para_imagem_test_drive)
 
-Copy the `docs/intro.md` file to the `i18n/fr` folder:
-
-```bash
-mkdir -p i18n/fr/docusaurus-plugin-content-docs/current/
-
-cp docs/intro.md i18n/fr/docusaurus-plugin-content-docs/current/intro.md
-```
-
-Translate `i18n/fr/docusaurus-plugin-content-docs/current/intro.md` in French.
-
-## Start your localized site
-
-Start your site on the French locale:
-
-```bash
-npm run start -- --locale fr
-```
-
-Your localized site is accessible at [http://localhost:3000/fr/](http://localhost:3000/fr/) and the `Getting Started` page is translated.
-
-:::caution
-
-In development, you can only use one locale at a same time.
-
-:::
-
-## Add a Locale Dropdown
-
-To navigate seamlessly across languages, add a locale dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'localeDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The locale dropdown now appears in your navbar:
-
-![Locale Dropdown](./img/localeDropdown.png)
-
-## Build your localized site
-
-Build your site for a specific locale:
-
-```bash
-npm run build -- --locale fr
-```
-
-Or build your site to include all the locales at once:
-
-```bash
-npm run build
-```
+**Marque já o seu Test Drive e escolha a estrada da sua próxima aventura automotiva!**
