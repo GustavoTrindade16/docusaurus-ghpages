@@ -7,9 +7,9 @@
       "name": "@docusaurus/plugin-content-docs",
       "version": "2.4.1"
     },
-    "docusaurus-plugin-content-Manutenção e serviços": {
+    "docusaurus-plugin-content-blog": {
       "type": "package",
-      "name": "@docusaurus/plugin-content-Manutenção e serviços",
+      "name": "@docusaurus/plugin-content-blog",
       "version": "2.4.1"
     },
     "docusaurus-plugin-content-pages": {

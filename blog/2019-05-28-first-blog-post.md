@@ -1,6 +1,6 @@
 ---
-slug: first-Manutenção e serviços-post
-title: First Manutenção e serviços Post
+slug: first-blog-post
+title: First blog Post
 authors:
   name: Gao Wei
   title: Docusaurus Core Team

@@ -1,9 +1,9 @@
 {
-  "permalink": "/Manutenção e serviços/tags/docusaurus",
+  "permalink": "/blog/tags/docusaurus",
   "page": 1,
   "postsPerPage": 10,
   "totalPages": 1,
   "totalCount": 4,
-  "Manutenção e serviçosDescription": "Manutenção e serviços",
-  "Manutenção e serviçosTitle": "Manutenção e serviços"
+  "blogDescription": "blog",
+  "blogTitle": "blog"
 }

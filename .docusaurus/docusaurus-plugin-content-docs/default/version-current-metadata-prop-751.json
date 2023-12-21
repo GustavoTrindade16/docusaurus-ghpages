@@ -36,8 +36,8 @@
           {
             "type": "link",
             "label": "Mercedes-Benz",
-            "href": "/docs/tutorial-basics/create-a-Manutenção e serviços-post",
-            "docId": "tutorial-basics/create-a-Manutenção e serviços-post"
+            "href": "/docs/tutorial-basics/create-a-blog-post",
+            "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
@@ -96,10 +96,10 @@
       "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-Manutenção e serviços-post": {
-      "id": "tutorial-basics/create-a-Manutenção e serviços-post",
+    "tutorial-basics/create-a-blog-post": {
+      "id": "tutorial-basics/create-a-blog-post",
       "title": "Mercedes-Benz",
-      "description": "Docusaurus creates a page for each Manutenção e serviços post, but also a Manutenção e serviços index page, a tag system, an RSS feed...",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/create-a-document": {

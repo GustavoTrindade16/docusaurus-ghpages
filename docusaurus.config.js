@@ -45,7 +45,7 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        Manutenção e serviços: {
+        blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -77,7 +77,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/Manutenção e serviços', label: 'Manutenção e serviços', position: 'left'},
+          {to: '/blog', label: 'blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -118,8 +118,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Manutenção e serviços',
-                to: '/Manutenção e serviços',
+                label: 'blog',
+                to: '/blog',
               },
               {
                 label: 'GitHub',

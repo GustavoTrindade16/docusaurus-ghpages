@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/Manutenção e serviços/welcome"
+      "permalink": "/blog/welcome"
     },
     {
-      "title": "MDX Manutenção e serviços Post",
-      "permalink": "/Manutenção e serviços/mdx-Manutenção e serviços-post"
+      "title": "MDX blog Post",
+      "permalink": "/blog/mdx-blog-post"
     },
     {
-      "title": "Long Manutenção e serviços Post",
-      "permalink": "/Manutenção e serviços/long-Manutenção e serviços-post"
+      "title": "Long blog Post",
+      "permalink": "/blog/long-blog-post"
     },
     {
-      "title": "First Manutenção e serviços Post",
-      "permalink": "/Manutenção e serviços/first-Manutenção e serviços-post"
+      "title": "First blog Post",
+      "permalink": "/blog/first-blog-post"
     }
   ]
 }
