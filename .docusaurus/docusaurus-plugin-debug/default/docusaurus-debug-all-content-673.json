@@ -38,7 +38,7 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
+                "title": "Marcas",
                 "permalink": "/docs/category/tutorial---basics"
               }
             },
@@ -142,7 +142,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Basics",
+                "title": "Marcas",
                 "permalink": "/docs/category/tutorial---basics"
               },
               "next": {
@@ -264,7 +264,7 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "Marcas",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
