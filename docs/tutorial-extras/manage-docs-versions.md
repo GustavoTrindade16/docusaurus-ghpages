@@ -2,54 +2,49 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
 
-Docusaurus can manage multiple versions of your docs.
+# Acessórios Automotivos
 
-## Create a docs version
+Dê uma olhada em nossa incrível coleção de acessórios automotivos que vão transformar a experiência de dirigir o seu carro. Estilo, conforto e praticidade, tudo em um só lugar. Confira nossa lista abaixo:
 
-Release a version 1.0 of your project:
+1. **Tapetes de Luxo - Modelo Elegance:**
+   - Material resistente e fácil de limpar.
+   - *Preço: 69,90€*
 
-```bash
-npm run docusaurus docs:version 1.0
-```
+2. **Capas de Assento Premium - Coleção Elite:**
+   - Design moderno e conforto excepcional.
+   - *Preço: 99,99€*
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
+3. **Aromatizante Veicular - Fragrância Fresh Drive:**
+   - Mantenha seu carro sempre perfumado.
+   - *Preço: 12,95€*
 
-Your docs now have 2 versions:
+4. **Suporte para Celular Magnético - Série TechPro:**
+   - Fixação magnética e ajuste de ângulo.
+   - *Preço: 24,99€*
 
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
+5. **Organizador de Porta - Espaço Plus:**
+   - Otimize o espaço no interior do seu carro.
+   - *Preço: 19,95€*
 
-## Add a Version Dropdown
+6. **Kit de Limpeza Automotiva - Brilho Total:**
+   - Tudo que você precisa para um carro impecável.
+   - *Preço: 49,99€*
 
-To navigate seamlessly across versions, add a version dropdown.
+7. **Cobertura para Volante - Toque Suave:**
+   - Conforto e aderência em todas as viagens.
+   - *Preço: 29,90€*
 
-Modify the `docusaurus.config.js` file:
+8. **Carregador USB Rápido - TechCharge Pro:**
+   - Carregamento rápido para seus dispositivos.
+   - *Preço: 34,95€*
 
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
+9. **Câmera de Ré sem Fio - Visão Clara:**
+   - Auxilia nas manobras e estacionamento.
+   - *Preço: 79,99€*
 
-The docs version dropdown appears in your navbar:
+10. **Almofada de Pescoço Ergonômica - Viagem Confortável:**
+    - Suavidade para suas viagens mais longas.
+    - *Preço: 14,95€*
 
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
-
-## Update an existing version
-
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+**Faça a diferença no seu carro com esses acessórios incríveis! Visite nossa loja para conferir mais opções e ofertas exclusivas.**
