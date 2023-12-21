@@ -92,7 +92,7 @@
                 "permalink": "/docs/tutorial-basics/create-a-document"
               },
               "next": {
-                "title": "Markdown Features",
+                "title": "Audi",
                 "permalink": "/docs/tutorial-basics/markdown-features"
               }
             },
@@ -169,7 +169,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Markdown Features",
+                "title": "Audi",
                 "permalink": "/docs/tutorial-basics/markdown-features"
               },
               "next": {
@@ -180,7 +180,7 @@
             {
               "unversionedId": "tutorial-basics/markdown-features",
               "id": "tutorial-basics/markdown-features",
-              "title": "Markdown Features",
+              "title": "Audi",
               "description": "Docusaurus supports Markdown and a few additional features.",
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
@@ -400,7 +400,7 @@
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
-            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "description": "Blog posts support Docusaurus Audi, such as MDX.",
             "date": "2021-08-01T00:00:00.000Z",
             "formattedDate": "August 1, 2021",
             "tags": [
@@ -439,7 +439,7 @@
               "permalink": "/blog/long-blog-post"
             }
           },
-          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+          "content": "Blog posts support [Docusaurus Audi](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
         },
         {
           "id": "long-blog-post",

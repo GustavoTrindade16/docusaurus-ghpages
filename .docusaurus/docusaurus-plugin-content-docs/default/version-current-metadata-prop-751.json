@@ -41,7 +41,7 @@
           },
           {
             "type": "link",
-            "label": "Markdown Features",
+            "label": "Audi",
             "href": "/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
@@ -122,7 +122,7 @@
     },
     "tutorial-basics/markdown-features": {
       "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
+      "title": "Audi",
       "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"
     },
