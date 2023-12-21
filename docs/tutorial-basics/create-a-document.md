@@ -40,6 +40,7 @@ sidebar_position: 2
 
 **Nota:** Imagens meramente ilustrativas. Consulte condições na concessionária.
 
+[![Comprar](https://img.shields.io/badge/Comprar-Agora-blue)](javascript:alert('Obrigado por comprar!'))
 
 
 
