@@ -70,16 +70,16 @@
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
+              "unversionedId": "tutorial-basics/create-a-Manutenção e serviços-post",
+              "id": "tutorial-basics/create-a-Manutenção e serviços-post",
               "title": "Mercedes-Benz",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+              "description": "Docusaurus creates a page for each Manutenção e serviços post, but also a Manutenção e serviços index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics/create-a-Manutenção e serviços-post.md",
               "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "slug": "/tutorial-basics/create-a-Manutenção e serviços-post",
+              "permalink": "/docs/tutorial-basics/create-a-Manutenção e serviços-post",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-Manutenção e serviços-post.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -120,7 +120,7 @@
               },
               "next": {
                 "title": "Mercedes-Benz",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/docs/tutorial-basics/create-a-Manutenção e serviços-post"
               }
             },
             {
@@ -197,7 +197,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Mercedes-Benz",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/docs/tutorial-basics/create-a-Manutenção e serviços-post"
               },
               "next": {
                 "title": "Porsche",
@@ -278,7 +278,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
+                    "id": "tutorial-basics/create-a-Manutenção e serviços-post"
                   },
                   {
                     "type": "doc",
@@ -327,32 +327,32 @@
       ]
     }
   },
-  "docusaurus-plugin-content-blog": {
+  "docusaurus-plugin-content-Manutenção e serviços": {
     "default": {
-      "blogSidebarTitle": "Recent posts",
-      "blogPosts": [
+      "Manutenção e serviçosSidebarTitle": "Recent posts",
+      "Manutenção e serviçosPosts": [
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
-            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "permalink": "/Manutenção e serviços/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/Manutenção e serviços/2021-08-26-welcome/index.md",
+            "source": "@site/Manutenção e serviços/2021-08-26-welcome/index.md",
             "title": "Welcome",
-            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "description": "Docusaurus Manutenção e serviçosging features are powered by the Manutenção e serviços plugin.",
             "date": "2021-08-26T00:00:00.000Z",
             "formattedDate": "August 26, 2021",
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/Manutenção e serviços/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/Manutenção e serviços/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/Manutenção e serviços/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -387,26 +387,26 @@
               ]
             },
             "nextItem": {
-              "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "title": "MDX Manutenção e serviços Post",
+              "permalink": "/Manutenção e serviços/mdx-Manutenção e serviços-post"
             }
           },
-          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+          "content": "[Docusaurus Manutenção e serviçosging features](https://docusaurus.io/docs/Manutenção e serviços) are powered by the [Manutenção e serviços plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-Manutenção e serviços).\n\nSimply add Markdown files (or folders) to the `Manutenção e serviços` directory.\n\nRegular Manutenção e serviços authors can be added to `authors.yml`.\n\nThe Manutenção e serviços post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA Manutenção e serviços post folder can be convenient to co-locate Manutenção e serviços post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe Manutenção e serviços supports tags as well!\n\n**And if you don't want a Manutenção e serviços**: just delete this directory, and use `Manutenção e serviços: false` in your Docusaurus config."
         },
         {
-          "id": "mdx-blog-post",
+          "id": "mdx-Manutenção e serviços-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
-            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-            "title": "MDX Blog Post",
-            "description": "Blog posts support Docusaurus Audi, such as MDX.",
+            "permalink": "/Manutenção e serviços/mdx-Manutenção e serviços-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/Manutenção e serviços/2021-08-01-mdx-Manutenção e serviços-post.mdx",
+            "source": "@site/Manutenção e serviços/2021-08-01-mdx-Manutenção e serviços-post.mdx",
+            "title": "MDX Manutenção e serviços Post",
+            "description": "Manutenção e serviços posts support Docusaurus Audi, such as MDX.",
             "date": "2021-08-01T00:00:00.000Z",
             "formattedDate": "August 1, 2021",
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/Manutenção e serviços/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -421,8 +421,8 @@
               }
             ],
             "frontMatter": {
-              "slug": "mdx-blog-post",
-              "title": "MDX Blog Post",
+              "slug": "mdx-Manutenção e serviços-post",
+              "title": "MDX Manutenção e serviços Post",
               "authors": [
                 "slorber"
               ],
@@ -432,33 +432,33 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/Manutenção e serviços/welcome"
             },
             "nextItem": {
-              "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "title": "Long Manutenção e serviços Post",
+              "permalink": "/Manutenção e serviços/long-Manutenção e serviços-post"
             }
           },
-          "content": "Blog posts support [Docusaurus Audi](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+          "content": "Manutenção e serviços posts support [Docusaurus Audi](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive Manutenção e serviços posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
         },
         {
-          "id": "long-blog-post",
+          "id": "long-Manutenção e serviços-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
-            "source": "@site/blog/2019-05-29-long-blog-post.md",
-            "title": "Long Blog Post",
-            "description": "This is the summary of a very long blog post,",
+            "permalink": "/Manutenção e serviços/long-Manutenção e serviços-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/Manutenção e serviços/2019-05-29-long-Manutenção e serviços-post.md",
+            "source": "@site/Manutenção e serviços/2019-05-29-long-Manutenção e serviços-post.md",
+            "title": "Long Manutenção e serviços Post",
+            "description": "This is the summary of a very long Manutenção e serviços post,",
             "date": "2019-05-29T00:00:00.000Z",
             "formattedDate": "May 29, 2019",
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/Manutenção e serviços/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/Manutenção e serviços/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -473,8 +473,8 @@
               }
             ],
             "frontMatter": {
-              "slug": "long-blog-post",
-              "title": "Long Blog Post",
+              "slug": "long-Manutenção e serviços-post",
+              "title": "Long Manutenção e serviços Post",
               "authors": "endi",
               "tags": [
                 "hello",
@@ -482,34 +482,34 @@
               ]
             },
             "prevItem": {
-              "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "title": "MDX Manutenção e serviços Post",
+              "permalink": "/Manutenção e serviços/mdx-Manutenção e serviços-post"
             },
             "nextItem": {
-              "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "title": "First Manutenção e serviços Post",
+              "permalink": "/Manutenção e serviços/first-Manutenção e serviços-post"
             }
           },
-          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+          "content": "This is the summary of a very long Manutenção e serviços post,\n\nUse a `<!--` `truncate` `-->` comment to limit Manutenção e serviços post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
         },
         {
-          "id": "first-blog-post",
+          "id": "first-Manutenção e serviços-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
-            "source": "@site/blog/2019-05-28-first-blog-post.md",
-            "title": "First Blog Post",
+            "permalink": "/Manutenção e serviços/first-Manutenção e serviços-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/Manutenção e serviços/2019-05-28-first-Manutenção e serviços-post.md",
+            "source": "@site/Manutenção e serviços/2019-05-28-first-Manutenção e serviços-post.md",
+            "title": "First Manutenção e serviços Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
             "date": "2019-05-28T00:00:00.000Z",
             "formattedDate": "May 28, 2019",
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/Manutenção e serviços/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/Manutenção e serviços/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -524,8 +524,8 @@
               }
             ],
             "frontMatter": {
-              "slug": "first-blog-post",
-              "title": "First Blog Post",
+              "slug": "first-Manutenção e serviços-post",
+              "title": "First Manutenção e serviços Post",
               "authors": {
                 "name": "Gao Wei",
                 "title": "Docusaurus Core Team",
@@ -539,135 +539,135 @@
               ]
             },
             "prevItem": {
-              "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "title": "Long Manutenção e serviços Post",
+              "permalink": "/Manutenção e serviços/long-Manutenção e serviços-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
         }
       ],
-      "blogListPaginated": [
+      "Manutenção e serviçosListPaginated": [
         {
           "items": [
             "welcome",
-            "mdx-blog-post",
-            "long-blog-post",
-            "first-blog-post"
+            "mdx-Manutenção e serviços-post",
+            "long-Manutenção e serviços-post",
+            "first-Manutenção e serviços-post"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/Manutenção e serviços",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
             "totalCount": 4,
-            "blogDescription": "Blog",
-            "blogTitle": "Blog"
+            "Manutenção e serviçosDescription": "Manutenção e serviços",
+            "Manutenção e serviçosTitle": "Manutenção e serviços"
           }
         }
       ],
-      "blogTags": {
-        "/blog/tags/facebook": {
+      "Manutenção e serviçosTags": {
+        "/Manutenção e serviços/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook",
+          "permalink": "/Manutenção e serviços/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/facebook",
+                "permalink": "/Manutenção e serviços/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
                 "totalCount": 1,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
+                "Manutenção e serviçosDescription": "Manutenção e serviços",
+                "Manutenção e serviçosTitle": "Manutenção e serviços"
               }
             }
           ]
         },
-        "/blog/tags/hello": {
+        "/Manutenção e serviços/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
-            "long-blog-post"
+            "long-Manutenção e serviços-post"
           ],
-          "permalink": "/blog/tags/hello",
+          "permalink": "/Manutenção e serviços/tags/hello",
           "pages": [
             {
               "items": [
                 "welcome",
-                "long-blog-post"
+                "long-Manutenção e serviços-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hello",
+                "permalink": "/Manutenção e serviços/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
                 "totalCount": 2,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
+                "Manutenção e serviçosDescription": "Manutenção e serviços",
+                "Manutenção e serviçosTitle": "Manutenção e serviços"
               }
             }
           ]
         },
-        "/blog/tags/docusaurus": {
+        "/Manutenção e serviços/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
-            "mdx-blog-post",
-            "long-blog-post",
-            "first-blog-post"
+            "mdx-Manutenção e serviços-post",
+            "long-Manutenção e serviços-post",
+            "first-Manutenção e serviços-post"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "/Manutenção e serviços/tags/docusaurus",
           "pages": [
             {
               "items": [
                 "welcome",
-                "mdx-blog-post",
-                "long-blog-post",
-                "first-blog-post"
+                "mdx-Manutenção e serviços-post",
+                "long-Manutenção e serviços-post",
+                "first-Manutenção e serviços-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "/Manutenção e serviços/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
                 "totalCount": 4,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
+                "Manutenção e serviçosDescription": "Manutenção e serviços",
+                "Manutenção e serviçosTitle": "Manutenção e serviços"
               }
             }
           ]
         },
-        "/blog/tags/hola": {
+        "/Manutenção e serviços/tags/hola": {
           "label": "hola",
           "items": [
-            "first-blog-post"
+            "first-Manutenção e serviços-post"
           ],
-          "permalink": "/blog/tags/hola",
+          "permalink": "/Manutenção e serviços/tags/hola",
           "pages": [
             {
               "items": [
-                "first-blog-post"
+                "first-Manutenção e serviços-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hola",
+                "permalink": "/Manutenção e serviços/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
                 "totalCount": 1,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
+                "Manutenção e serviçosDescription": "Manutenção e serviços",
+                "Manutenção e serviçosTitle": "Manutenção e serviços"
               }
             }
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "Manutenção e serviçosTagsListPath": "/Manutenção e serviços/tags"
     }
   },
   "docusaurus-plugin-content-pages": {

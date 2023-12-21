@@ -1,13 +1,13 @@
 ---
-slug: long-blog-post
-title: Long Blog Post
+slug: long-Manutenção e serviços-post
+title: Long Manutenção e serviços Post
 authors: endi
 tags: [hello, docusaurus]
 ---
 
-This is the summary of a very long blog post,
+This is the summary of a very long Manutenção e serviços post,
 
-Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
+Use a `<!--` `truncate` `-->` comment to limit Manutenção e serviços post size in the list view.
 
 <!--truncate-->
 

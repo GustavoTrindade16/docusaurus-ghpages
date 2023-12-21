@@ -29,7 +29,7 @@ export default {
           "sidebarPath": "/home/masaleiro/Code/UAlg/docusaurus-ghpages/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
-        "blog": {
+        "Manutenção e serviços": {
           "showReadingTime": true,
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
@@ -55,8 +55,8 @@ export default {
           "label": "Tutorial"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
+          "to": "/Manutenção e serviços",
+          "label": "Manutenção e serviços",
           "position": "left"
         },
         {
@@ -100,8 +100,8 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "Manutenção e serviços",
+              "to": "/Manutenção e serviços"
             },
             {
               "label": "GitHub",
