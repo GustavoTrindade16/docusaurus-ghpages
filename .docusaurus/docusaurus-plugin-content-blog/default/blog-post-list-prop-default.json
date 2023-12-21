@@ -1,8 +1,8 @@
 {
-  "title": "Recent posts",
+  "title": "Serviços",
   "items": [
     {
-      "title": "Welcome",
+      "title": "Serviços e manutenção",
       "permalink": "/blog/welcome"
     },
     {
@@ -10,11 +10,11 @@
       "permalink": "/blog/mdx-blog-post"
     },
     {
-      "title": "Long blog Post",
+      "title": "Serviços e manutenção",
       "permalink": "/blog/long-blog-post"
     },
     {
-      "title": "First blog Post",
+      "title": "ASSISTANCEt",
       "permalink": "/blog/first-blog-post"
     }
   ]
