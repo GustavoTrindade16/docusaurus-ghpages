@@ -38,7 +38,7 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
+                "title": "Marcas",
                 "permalink": "/docs/category/tutorial---basics"
               }
             },
@@ -88,7 +88,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Document",
+                "title": "BMW",
                 "permalink": "/docs/tutorial-basics/create-a-document"
               },
               "next": {
@@ -99,7 +99,7 @@
             {
               "unversionedId": "tutorial-basics/create-a-document",
               "id": "tutorial-basics/create-a-document",
-              "title": "Create a Document",
+              "title": "BMW",
               "description": "Documents are groups of pages connected through:",
               "source": "@site/docs/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
@@ -115,7 +115,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Page",
+                "title": "Peugeot",
                 "permalink": "/docs/tutorial-basics/create-a-page"
               },
               "next": {
@@ -126,7 +126,7 @@
             {
               "unversionedId": "tutorial-basics/create-a-page",
               "id": "tutorial-basics/create-a-page",
-              "title": "Create a Page",
+              "title": "Peugeot",
               "description": "Add Markdown or React files to src/pages to create a standalone page:",
               "source": "@site/docs/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
@@ -142,11 +142,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Basics",
+                "title": "Marcas",
                 "permalink": "/docs/category/tutorial---basics"
               },
               "next": {
-                "title": "Create a Document",
+                "title": "BMW",
                 "permalink": "/docs/tutorial-basics/create-a-document"
               }
             },
@@ -264,7 +264,7 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "Marcas",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [

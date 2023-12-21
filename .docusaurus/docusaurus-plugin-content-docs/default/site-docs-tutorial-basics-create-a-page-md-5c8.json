@@ -1,7 +1,7 @@
 {
   "unversionedId": "tutorial-basics/create-a-page",
   "id": "tutorial-basics/create-a-page",
-  "title": "Create a Page",
+  "title": "Peugeot",
   "description": "Add Markdown or React files to src/pages to create a standalone page:",
   "source": "@site/docs/tutorial-basics/create-a-page.md",
   "sourceDirName": "tutorial-basics",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tutorial - Basics",
+    "title": "Marcas",
     "permalink": "/docs/category/tutorial---basics"
   },
   "next": {
-    "title": "Create a Document",
+    "title": "BMW",
     "permalink": "/docs/tutorial-basics/create-a-document"
   }
 }

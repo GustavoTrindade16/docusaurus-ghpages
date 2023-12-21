@@ -17,19 +17,19 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Marcas",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
+            "label": "Peugeot",
             "href": "/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
-            "label": "Create a Document",
+            "label": "BMW",
             "href": "/docs/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
@@ -104,13 +104,13 @@
     },
     "tutorial-basics/create-a-document": {
       "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
+      "title": "BMW",
       "description": "Documents are groups of pages connected through:",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/create-a-page": {
       "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
+      "title": "Peugeot",
       "description": "Add Markdown or React files to src/pages to create a standalone page:",
       "sidebar": "tutorialSidebar"
     },
