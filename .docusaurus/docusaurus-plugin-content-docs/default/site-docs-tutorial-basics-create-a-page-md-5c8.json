@@ -1,7 +1,7 @@
 {
   "unversionedId": "tutorial-basics/create-a-page",
   "id": "tutorial-basics/create-a-page",
-  "title": "Create a Page",
+  "title": "Peugeot",
   "description": "Add Markdown or React files to src/pages to create a standalone page:",
   "source": "@site/docs/tutorial-basics/create-a-page.md",
   "sourceDirName": "tutorial-basics",

@@ -23,7 +23,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
+            "label": "Peugeot",
             "href": "/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
@@ -110,7 +110,7 @@
     },
     "tutorial-basics/create-a-page": {
       "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
+      "title": "Peugeot",
       "description": "Add Markdown or React files to src/pages to create a standalone page:",
       "sidebar": "tutorialSidebar"
     },
