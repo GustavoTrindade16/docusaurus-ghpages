@@ -5,13 +5,16 @@
       "title": "Serviços e manutenção",
       "permalink": "/blog/welcome"
     },
-   
+    {
+      "title": "MDX blog Post",
+      "permalink": "/blog/mdx-blog-post"
+    },
     {
       "title": "Serviços e manutenção",
       "permalink": "/blog/long-blog-post"
     },
     {
-      "title": "ASSISTANCE",
+      "title": "ASSISTANCEt",
       "permalink": "/blog/first-blog-post"
     }
   ]
