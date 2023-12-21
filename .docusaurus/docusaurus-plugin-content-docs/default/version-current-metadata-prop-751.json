@@ -53,7 +53,7 @@
           },
           {
             "type": "link",
-            "label": "Congratulations!",
+            "label": "Volvo",
             "href": "/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
@@ -92,7 +92,7 @@
     },
     "tutorial-basics/congratulations": {
       "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
+      "title": "Volvo",
       "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
       "sidebar": "tutorialSidebar"
     },
