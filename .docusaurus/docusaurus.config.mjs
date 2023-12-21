@@ -52,7 +52,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Stand"
+          "label": "Tutorial"
         },
         {
           "to": "/blog",
