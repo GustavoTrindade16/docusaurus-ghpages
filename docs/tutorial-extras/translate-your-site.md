@@ -18,6 +18,6 @@ Dê vida aos seus sonhos e transforme a curiosidade em uma experiência inesquec
 - A emoção de dirigir está a um passo de distância.
 - A decisão é sua: venha sentir a diferença, venha dirigir o futuro hoje!
 
-![Test Drive](link_para_imagem_test_drive)
+![Test Drive](https://www.otempo.com.br/image/contentid/policy:1.2890008:1692745133/Bugatti-Centodieci-2020-1280-13-jpg.jpg?f=3x2&w=1224)
 
 **Marque já o seu Test Drive e escolha a estrada da sua próxima aventura automotiva!**
