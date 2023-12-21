@@ -1,8 +1,6 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: Manutenção e serviços
+title: Manutenção e serviços
 ---
 
 # Concessionária Virtual: O Parceiro Certo para a Manutenção do Seu Veículo
