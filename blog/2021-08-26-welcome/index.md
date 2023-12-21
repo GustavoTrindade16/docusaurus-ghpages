@@ -1,6 +1,6 @@
 ---
-slug: blog
-title: blog
+slug: Serviços e manutenção
+title: Serviços e manutenção
 ---
 
 # Concessionária Virtual: O Parceiro Certo para a Manutenção do Seu Veículo

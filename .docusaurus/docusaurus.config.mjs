@@ -100,7 +100,7 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "blog",
+              "label": "Serviços e Manutenção",
               "to": "/blog"
             },
             {
