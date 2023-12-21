@@ -72,7 +72,7 @@
             {
               "unversionedId": "tutorial-basics/create-a-blog-post",
               "id": "tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
+              "title": "Mercedes-Benz",
               "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
@@ -119,7 +119,7 @@
                 "permalink": "/docs/tutorial-basics/create-a-page"
               },
               "next": {
-                "title": "Create a Blog Post",
+                "title": "Mercedes-Benz",
                 "permalink": "/docs/tutorial-basics/create-a-blog-post"
               }
             },
@@ -196,7 +196,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Blog Post",
+                "title": "Mercedes-Benz",
                 "permalink": "/docs/tutorial-basics/create-a-blog-post"
               },
               "next": {
