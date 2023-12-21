@@ -2,8 +2,8 @@
   "permalink": "/blog/mdx-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-  "title": "MDX Blog Post",
-  "description": "Blog posts support Docusaurus Audi, such as MDX.",
+  "title": "MDX blog Post",
+  "description": "blog posts support Docusaurus Audi, such as MDX.",
   "date": "2021-08-01T00:00:00.000Z",
   "formattedDate": "August 1, 2021",
   "tags": [
@@ -25,7 +25,7 @@
   ],
   "frontMatter": {
     "slug": "mdx-blog-post",
-    "title": "MDX Blog Post",
+    "title": "MDX blog Post",
     "authors": [
       "slorber"
     ],
@@ -38,7 +38,7 @@
     "permalink": "/blog/welcome"
   },
   "nextItem": {
-    "title": "Long Blog Post",
+    "title": "Long blog Post",
     "permalink": "/blog/long-blog-post"
   }
 }
