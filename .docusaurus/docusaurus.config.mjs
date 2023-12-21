@@ -56,7 +56,7 @@ export default {
         },
         {
           "to": "/blog",
-          "label": "blog",
+          "label": "Serviços e manutenção",
           "position": "left"
         },
         {
