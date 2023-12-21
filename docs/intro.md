@@ -43,3 +43,5 @@ Apresentação de documentos de identificação e comprovante de renda conforme 
 
 Revisão detalhada do contrato de compra antes da finalização.
 Esclarecimento de todas as cláusulas e condições para garantir total compreensão.
+
+![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
