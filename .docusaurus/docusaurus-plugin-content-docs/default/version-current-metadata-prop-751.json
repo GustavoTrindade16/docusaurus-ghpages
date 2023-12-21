@@ -47,7 +47,7 @@
           },
           {
             "type": "link",
-            "label": "Deploy your site",
+            "label": "Porsche",
             "href": "/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
@@ -116,7 +116,7 @@
     },
     "tutorial-basics/deploy-your-site": {
       "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
+      "title": "Porsche",
       "description": "Docusaurus is a static-site-generator (also called Jamstack).",
       "sidebar": "tutorialSidebar"
     },
