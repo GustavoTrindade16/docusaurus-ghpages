@@ -2,19 +2,16 @@
   "title": "Serviços",
   "items": [
     {
-      "title": "Welcome",
+      "title": "Serviços e manutenção",
       "permalink": "/blog/welcome"
     },
+   
     {
-      "title": "MDX blog Post",
-      "permalink": "/blog/mdx-blog-post"
-    },
-    {
-      "title": "Long blog Post",
+      "title": "Serviços e manutenção",
       "permalink": "/blog/long-blog-post"
     },
     {
-      "title": "First blog Post",
+      "title": "ASSISTANCE",
       "permalink": "/blog/first-blog-post"
     }
   ]
