@@ -65,7 +65,7 @@
                 "permalink": "/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
-                "title": "Tutorial - Extras",
+                "title": "Extras",
                 "permalink": "/docs/category/tutorial---extras"
               }
             },
@@ -223,7 +223,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Extras",
+                "title": "Extras",
                 "permalink": "/docs/category/tutorial---extras"
               },
               "next": {
@@ -302,7 +302,7 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Extras",
+                "label": "Extras",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
