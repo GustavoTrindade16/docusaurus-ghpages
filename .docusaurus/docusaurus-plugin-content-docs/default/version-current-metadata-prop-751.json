@@ -41,13 +41,13 @@
           },
           {
             "type": "link",
-            "label": "Markdown Features",
+            "label": "Audi",
             "href": "/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
-            "label": "Deploy your site",
+            "label": "Porsche",
             "href": "/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
@@ -116,13 +116,13 @@
     },
     "tutorial-basics/deploy-your-site": {
       "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
+      "title": "Porsche",
       "description": "Docusaurus is a static-site-generator (also called Jamstack).",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/markdown-features": {
       "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
+      "title": "Audi",
       "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"
     },

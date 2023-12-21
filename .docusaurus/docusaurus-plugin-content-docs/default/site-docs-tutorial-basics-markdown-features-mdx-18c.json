@@ -1,7 +1,7 @@
 {
   "unversionedId": "tutorial-basics/markdown-features",
   "id": "tutorial-basics/markdown-features",
-  "title": "Markdown Features",
+  "title": "Audi",
   "description": "Docusaurus supports Markdown and a few additional features.",
   "source": "@site/docs/tutorial-basics/markdown-features.mdx",
   "sourceDirName": "tutorial-basics",
@@ -21,7 +21,7 @@
     "permalink": "/docs/tutorial-basics/create-a-blog-post"
   },
   "next": {
-    "title": "Deploy your site",
+    "title": "Porsche",
     "permalink": "/docs/tutorial-basics/deploy-your-site"
   }
 }
