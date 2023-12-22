@@ -10,7 +10,7 @@ sidebar_position: 2
 # EX30. Excelente desempenho elétrico num formato pequeno.
 
 --
-## Autonomia elétrica (Até).
+# Autonomia elétrica (Até).
 
 475 km.
 
@@ -58,7 +58,7 @@ sidebar_position: 2
 --
 # Interiores
 
-## Reciclado. Renovado. Refinado.
+# Reciclado. Renovado. Refinado.
 
  Criámos quatro interiores inspirados na natureza para o EX30. Combinam na perfeição estofos e decorações em cores a condizer, tecidos feitos a partir de materiais renováveis e reciclados.
 
