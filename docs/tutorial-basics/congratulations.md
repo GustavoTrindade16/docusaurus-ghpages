@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Volvo - EX30: Excelente Desempenho Elétrico em um Formato Compacto
+# Volvo 
 
 ![Imagem do Volvo EX30](https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/ex30-electric/reveal/ex30-electric-overview-gallery-item8-16x9.jpg?iar=0&w=1920)
 
